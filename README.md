@@ -1,3 +1,10 @@
+<h1>Bienvenidos a mi repositorio en GitHub</h1>
+
+<h5>Encontrarás</h5>
+<ul>
+  <li>Proyectos empezados y no terminados</li>
+</ul>
+
 ### Hi there 👋
 
 **rkotik/rkotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
